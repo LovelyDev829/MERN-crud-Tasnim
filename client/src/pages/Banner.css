@@ -1,0 +1,45 @@
+.banner{
+    height: 60vh;
+    background: url("https://cdn.pixabay.com/photo/2017/01/26/02/06/platter-2009590_1280.jpg");
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner__info {
+    background-color: black;
+    margin: auto;
+    color: white;
+    padding-top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    width: 300px;
+}
+
+.banner__searchButton{
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: rgb(43, 32, 32) !important;
+}
+
+.banner__search{
+    display:flex;
+    flex-direction: column;
+}
+
+.banner__info>button{
+    background-color: purple;
+    color: white;
+    text-transform: ;
+    margin-top: 10px;
+    font-weight:600
+}
+.banner__info> h5{
+    margin-top: 10px;
+    
+}
+.button {
+    cursor: pointer;
+}

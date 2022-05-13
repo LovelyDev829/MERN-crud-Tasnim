@@ -1,0 +1,174 @@
+{
+    "restaurantID" : "190909090",
+    "categoryCount" : 4,
+    "categoryList" :[
+        {
+            "categoryId" : 1,
+            "categoryName" : "cate_01",
+            "dishCount" : 5,
+            "dishList" : [
+                {
+                    "dishId" : 1,
+                    "dishName" : "dish_011",
+                    "dishPrice" : 0.13,
+                    "dishDescription" : "this is dish_011",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 2,
+                    "dishName" : "dish_012",
+                    "dishPrice" : 0.23,
+                    "dishDescription" : "this is dish_012",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 3,
+                    "dishName" : "dish_013",
+                    "dishPrice" : 0.33,
+                    "dishDescription" : "this is dish_013",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 4,
+                    "dishName" : "dish_014",
+                    "dishPrice" : 0.43,
+                    "dishDescription" : "this is dish_014",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 5,
+                    "dishName" : "dish_015",
+                    "dishPrice" : 0.53,
+                    "dishDescription" : "this is dish_015",
+                    "registeredDate" : "2022/03/24"
+                }
+            ]
+        },
+        {
+            "categoryId" : 1,
+            "categoryName" : "cate_02",
+            "dishCount" : 5,
+            "dishList" : [
+                {
+                    "dishId" : 1,
+                    "dishName" : "dish_021",
+                    "dishPrice" : 0.13,
+                    "dishDescription" : "this is dish_021",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 2,
+                    "dishName" : "dish_022",
+                    "dishPrice" : 0.23,
+                    "dishDescription" : "this is dish_022",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 3,
+                    "dishName" : "dish_023",
+                    "dishPrice" : 0.33,
+                    "dishDescription" : "this is dish_023",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 4,
+                    "dishName" : "dish_024",
+                    "dishPrice" : 0.43,
+                    "dishDescription" : "this is dish_024",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 5,
+                    "dishName" : "dish_025",
+                    "dishPrice" : 0.53,
+                    "dishDescription" : "this is dish_015",
+                    "registeredDate" : "2022/03/24"
+                }
+            ]
+        },
+        {
+            "categoryId" : 1,
+            "categoryName" : "cate_03",
+            "dishCount" : 5,
+            "dishList" : [
+                {
+                    "dishId" : 1,
+                    "dishName" : "dish_031",
+                    "dishPrice" : 0.13,
+                    "dishDescription" : "this is dish_031",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 2,
+                    "dishName" : "dish_032",
+                    "dishPrice" : 0.23,
+                    "dishDescription" : "this is dish_032",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 3,
+                    "dishName" : "dish_033",
+                    "dishPrice" : 0.33,
+                    "dishDescription" : "this is dish_033",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 4,
+                    "dishName" : "dish_034",
+                    "dishPrice" : 0.43,
+                    "dishDescription" : "this is dish_034",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 5,
+                    "dishName" : "dish_035",
+                    "dishPrice" : 0.53,
+                    "dishDescription" : "this is dish_015",
+                    "registeredDate" : "2022/03/24"
+                }
+            ]
+        },
+        {
+            "categoryId" : 1,
+            "categoryName" : "cate_04",
+            "dishCount" : 5,
+            "dishList" : [
+                {
+                    "dishId" : 1,
+                    "dishName" : "dish_041",
+                    "dishPrice" : 0.13,
+                    "dishDescription" : "this is dish_041",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 2,
+                    "dishName" : "dish_042",
+                    "dishPrice" : 0.23,
+                    "dishDescription" : "this is dish_042",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 3,
+                    "dishName" : "dish_043",
+                    "dishPrice" : 0.33,
+                    "dishDescription" : "this is dish_043",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 4,
+                    "dishName" : "dish_044",
+                    "dishPrice" : 0.43,
+                    "dishDescription" : "this is dish_044",
+                    "registeredDate" : "2022/03/24"
+                },
+                {
+                    "dishId" : 5,
+                    "dishName" : "dish_045",
+                    "dishPrice" : 0.53,
+                    "dishDescription" : "this is dish_045",
+                    "registeredDate" : "2022/03/24"
+                }
+            ]
+        }       
+    ]   
+}

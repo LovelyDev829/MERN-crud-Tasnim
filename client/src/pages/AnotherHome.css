@@ -1,0 +1,10 @@
+.home__section {
+    display: inline-flex;
+    padding: 20px;
+  }
+
+.hot__topics {
+    display:inline-flex;
+    /* display: flex; */
+    padding: 20px;
+  }
